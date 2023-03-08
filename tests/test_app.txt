@@ -1,0 +1,5 @@
+root@instance-1:/var/www/html/python# pylint ecb_pdfs.py
+************* Module ecb_pdfs
+
+------------------------------------------------------------------
+Your code has been rated at 9.92/10 (previous run: 9.92/10, +0.00)
